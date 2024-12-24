@@ -1,0 +1,8 @@
+{
+  "name": "demo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "a08cf2f4"
+}
